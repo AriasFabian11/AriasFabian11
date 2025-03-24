@@ -32,4 +32,4 @@ Este proyecto consistió en el análisis de datos para evaluar la expansión de 
 ## 📫 Cómo contactarme
 📧 Email: fabiancarias0111@gmail.com
 [LinkedIn](https://www.linkedin.com/in/fabian-camilo-arias-bermudez-956487345/)
-- [Gmail](fabiancarias@gmail.com)
+Email: fabiancarias011@gmail.com
