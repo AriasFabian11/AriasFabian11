@@ -1,5 +1,5 @@
 # Hola, Soy Fabian Arias
-Analista de datos
+- Analista de datos
 #¿Quien soy?
 Soy un Analista de Datos apasionado por transformar datos en información accionable. Me especializo en ETL, modelado y visualización de datos, utilizando herramientas como Python, SQL, Power BI y tecnologías en la nube. Actualmente, desarrollo proyectos que me permiten mejorar mis habilidades en Big Data y automatización de procesos.
 
