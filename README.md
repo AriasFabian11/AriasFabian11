@@ -20,14 +20,14 @@ Soy un Analista de Datos apasionado por transformar datos en información accion
 
 ### 🏀 Análisis de la NBA
 Proyecto grupal donde utilizamos Python, SQL, Azure y Power BI para analizar el rendimiento de jugadores y equipos, automatizando el procesamiento de datos con Google Cloud Functions.
-
+[Enlace al repositorio](https://github.com/PabloEstruch/PI_NBA_SoyHenry)
 ### 📊 Dashboard de Adventure Works
 Desarrollé un análisis en SQL Server y Power BI para extraer métricas clave sobre ventas, clientes y productos, facilitando la toma de decisiones estratégicas.
-[Enlace al repositorio](https://github.com/PabloEstruch/Adventure_Works)
+[Enlace al repositorio]((https://github.com/AriasFabian11/Adventure_Works))
 
 ### 💉 Análisis y Expansión de Biogénesis
 Este proyecto consistió en el análisis de datos para evaluar la expansión de Biogénesis, una empresa del sector biotecnológico. Se utilizaron herramientas de SQL, Python y Power BI para explorar tendencias en el mercado, analizar la demanda de productos y optimizar estrategias de crecimiento.
-[Enlace al repositorio]()
+[Enlace al repositorio](https://github.com/AriasFabian11/Biogenesis)
 
 ## 📫 Cómo contactarme
 - 📧 Email: fabiancarias0111@gmail.com
